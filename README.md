@@ -10,7 +10,7 @@ Então, enquanto eles debatem e não vemos nenhum sinal no horizonte de quando i
 
 Aceito todo tipo de contribuição, desde de uma dica simples a um guia documentado que possa nos ajudar a desenvolver um método de configuração facilitado para esta aplicação.
 
-**A ideia inicial é um script bat ou js para configuração e instalação de dependências.
+__A ideia inicial é um script bat ou js para configuração e instalação de dependências.__
 
 ### Então, lets go! :-)
 
